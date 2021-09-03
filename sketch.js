@@ -1,7 +1,7 @@
 function preload() {
   //load game assets
- rabbit = loadImage('images//ironman.png')
- tar = loadImage('images//target.png')
+ rabbit = loadImage('https://cdn.pixabay.com/photo/2014/04/02/14/07/rocket-306209_1280.png')
+ tar = loadImage('https://cdn.pixabay.com/photo/2016/09/30/19/22/earth-1706130_1280.png')
  stone = loadImage('https://cdn.pixabay.com/photo/2018/08/08/07/34/spaceship-3591503_1280.png')
  snakebg = loadImage('https://cdn.pixabay.com/photo/2020/05/17/11/54/cartoon-5181269_1280.png')
  bg = loadImage('https://cdn.pixabay.com/photo/2020/12/09/07/34/rocket-5816647_1280.png')
