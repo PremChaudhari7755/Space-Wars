@@ -48,7 +48,7 @@ function draw() {
   obs5.bounceOff(edge[1]);
   obs5.bounceOff(edge[0]);
   player.addImage(rabbit)
-  player.scale=0.08
+  player.scale=0.05
   target.addImage(tar)
   target.scale=0.09
   obs1.addImage(stone)
